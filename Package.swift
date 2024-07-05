@@ -25,13 +25,13 @@ let package = Package(
 	targets: [
 		.binaryTarget(
 			name: "RemoteMonster",
-			url: "https://github.com/devjoonn/RemoteMonster_SPM/releases/download/v2.7.16/RemoteMonster.framework.zip",
-			checksum: "a0cbf2f272b69f52d4d7c7f872a07ddf9f3cd6d6c2362e2039b059ee5e59a961"
+			url: "https://github.com/devjoonn/RemoteMonster_SPM/releases/download/v2.7.17/RemoteMonster.xcframework.zip",
+			checksum: "cee50f4edcf13a3bc05486733bd59c609190c44adb8225d6ad79db23a5ac5a13"
 		),
 		.binaryTarget(
 			name: "WebRTC",
-			url: "https://github.com/devjoonn/RemoteMonster_SPM/releases/download/v2.7.16/WebRTC.framework.zip",
-			checksum: "e55cc77382e51a7c2c631d1657a04b84c1ef58d6246f9fadd93d74a5a391dc45"
+			url: "https://github.com/devjoonn/RemoteMonster_SPM/releases/download/v2.7.17/WebRTC.framework.zip",
+			checksum: "da292b0474b2330b100e220685204209f8e9b1149ba9b0ac15b48739627efa31"
 		)
 	]
 )
